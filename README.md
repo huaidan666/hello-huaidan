@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to huaidan
 
 You can use the [editor on GitHub](https://github.com/huaidan666/hello-word/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
